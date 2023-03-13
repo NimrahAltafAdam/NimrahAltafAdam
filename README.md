@@ -2,7 +2,8 @@
 <h3 align="center">A Full Stack Developer</h3>
 
 <!-- <img align = "right" alt = "coding" width="400" src = "https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif" /> -->
-<img align = "right" alt = "coding" width="400" src = "https://res.cloudinary.com/uploads123/image/upload/v1678716350/img10_lsvmky.gif" />
+<div align = "center" >
+<img align = "center" alt = "coding" width="400" src = "https://camo.githubusercontent.com/0f2df9c6430300192232520a10bc3f09066cee3c6f1205da8490ac2b1d69d9e5/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f646973702f3630313031343131363737303437352e363036386265666634363430612e676966" />
 
 - 🔭 I’m currently working on my FYP **NED EXPRESS**
 
@@ -13,6 +14,7 @@
 - 💬 Ask me about **React or any Stuff Related to Web Development.**
 
 - 📫 How to reach me **nimrahadam.123@gmail.com**
+  </div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
