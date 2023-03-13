@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Nimrah Altaf Adam</h1>
 <h3 align="center">A Full Stack Developer</h3>
 
-<img align = "right" alt = "coding" width="400" src = "https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif" />
+<!-- <img align = "right" alt = "coding" width="400" src = "https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif" /> -->
+<img align = "right" alt = "coding" width="400" src = "https://res.cloudinary.com/uploads123/image/upload/v1678716350/img10_lsvmky.gif" />
 
 - 🔭 I’m currently working on my FYP **NED EXPRESS**
 
